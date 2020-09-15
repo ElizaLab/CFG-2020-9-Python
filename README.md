@@ -19,4 +19,12 @@ If you want to download everything, click on the green button on the right that 
 
 Don't worry you got this! :muscle:
 
+## Youtube and Video:
+
+You can also access the classes on youtube!
+This is the channel: https://www.youtube.com/channel/UCCtOs1faqD_eflBw-IK6BGw?view_as=subscriber
+
+Individual classes:
+- 1st class: https://www.youtube.com/watch?v=jqm7cAOA1E4
+
 Good luck :taco:
