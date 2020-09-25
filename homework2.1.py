@@ -1,10 +1,16 @@
 ###EXERCISE 1 - Play with list!
 
 # Define a list food for easter (at least 5 items)
-
+food_eater = ['mash', 'vegan turkey']
 # print all of the list
 
 # Prompt the user for something to add to the list
+
+#first I want to ask a user for somethig
+food = input('what food do you want?')
+print(food)
+#add to list
+food_eater.append(food)
 
 # add it to the end of the list (use append)
 
